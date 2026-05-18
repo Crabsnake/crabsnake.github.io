@@ -1,6 +1,4 @@
 # still learning how to use github so stuff might not be done in the best way, but it will get *done*
-
-# kinda obvious. but setting the theme
 remote_theme: jekyll/minima
 plugins:
  -  jekyll-remote-theme
